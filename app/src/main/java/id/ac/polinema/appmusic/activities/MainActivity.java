@@ -1,8 +1,10 @@
-package id.ac.polinema.appmusic;
+package id.ac.polinema.appmusic.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import id.ac.polinema.appmusic.R;
 
 public class MainActivity extends AppCompatActivity {
 
