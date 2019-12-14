@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.MainActivity">
+        <activity android:name=".activities.WelcomeActivity"></activity>
+        <activity android:name=".fragments.MusicFragment" />
+        <activity android:name=".fragments.AlbumFragment" />
+        <activity android:name=".fragments.HomeFragment" />
+        <activity android:name=".fragments.BioFragment" />
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
