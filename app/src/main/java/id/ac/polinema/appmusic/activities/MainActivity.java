@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        loadFragment(new HomeFragment());
+        loadFragment(new BioFragment());
         BottomNavigationView bottomNavigationView = findViewById(R.id.navigation);
         // beri listener pada saat item/menu bottomnavigation terpilih
         bottomNavigationView.setOnNavigationItemSelectedListener(this);
@@ -52,11 +52,11 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
         Fragment fragment = null;
         switch (menuItem.getItemId()) {
-            case R.id.action_home:
-                fragment = new HomeFragment();
-                break;
             case R.id.action_bio:
                 fragment = new BioFragment();
+                break;
+            case R.id.action_home:
+                fragment = new HomeFragment();
                 break;
             case R.id.action_music:
                 fragment = new MusicFragment();
