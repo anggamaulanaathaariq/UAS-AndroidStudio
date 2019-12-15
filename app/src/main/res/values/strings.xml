@@ -7,6 +7,52 @@
     <string name="start">GOT IT</string>
     <string name="dialogs">Dialogs</string>
 
+    --Fragments
+    <string name="bio_bts">We Are BTS</string>
+    <string name="bio_bts2">BTS (Hangul: 방탄소년단RR: Bangtan Sonyeondan), juga dikenal sebagai Bangtan Boys, adalah sebuah boy band beranggotakan tujuh orang asal Korea Selatan yang dibentuk oleh Big Hit Entertainment. Bangtan Boys memiliki anggota member sebanyak 7 orang, yaitu RM, Jungkook, Jin, Suga, V, J-Hope, dan Jimin.</string>
+    <string name="bio_bts3">RM BTS (KIM NAM JOON)</string>
+    <string name="bio_bts4">JIN BTS (KIM SEOK JIN)</string>
+    <string name="bio_bts5">SUGA BTS (MIN YOONGI)</string>
+    <string name="bio_bts6">J-HOPE BTS (JUNG HO-SEOK)</string>
+    <string name="bio_bts7">JIMIN BTS (PARK JIMIN)</string>
+    <string name="bio_bts8">V BTS (KIM TAE-HYUNG)</string>
+    <string name="bio_bts9">JUNGKOOK BTS (JEON JUNGKOOK)</string>
+    <string name="biorm">Nama Asli: Kim Nam Joon \nTTL : Ilsan, Korea Selatan, 12 September 1994 \nTinggi Badan: 181 cm \nBerat Badan: 67 kg
+            \nPosisi: Leader, Rapper \n\nKim Nam Joon atau yang memiliki nama panggung RM ini dulu lebih dikenal dengan sebutan Rap Monster. Namun, kini hanya lebih sering dipanggil dengan nama RM BTS. Dia merupakan leader sekaligus main rapper dari BTS. Walaupun RM bukan member tertua, namun ia dipercaya untuk menjadi seorang leader di boy group Bangtan Boys ini Sebelum resmi debut, RM dikenal sebagai rapper undeground dengan nama panggung Runch Randa. Saat itu, ia sempat melakukan kolaborasi dengan Zico Block B yang pada saat itu juga merupakan rapper underground.
+            Member BTS ini merupakan seorang yang pandai menulis lagu sekaligus menjadi seorang produser. Ia merupakan anak laki laki satu-satunya dalam keluarga dan memiliki satu orang adik perempuan yang bernama Kim Geong Min.\n</string>
+
+    <string name="biojin">Nama Asli: Kim Seok Jin \nTTL : Gwacheon, Korea Selatan, 4 Desember 1992 \nTinggi Badan: 179 cm \nBerat Badan: 60 kg
+            \nPosisi: Vocalist dan Visual \n\nJin BTS memiliki postur tubuh yang bagus dan wajah yang rupawan. Oleh karena itu, ia ditunjuk sebagai visual dari BTS. Jin memiliki kebiasaan aneh yaitu selalu mengedipkan mata kirinya saat ia merasa lapar. Sebelum resmi debut dengan BTS, Jin menjalani masa training selama tiga tahun. Saat menjadi seorang trainee, member yang menjadi teman pertamanya pada saat itu adalah V. Mereka berdua memiliki banyak kesamaan dan hobi yang sama. Salah satu hal yang disukai yaitu sama sama menyukai anime. Hal tersebut membuat mereka berdua menjadi semakin akrab.\n</string>
+
+    <string name="biosuga">Nama Asli: Min Yoon Gi \nTTL : Daegu, Korea Selatan, 9 Maret 1993 \nTinggi Badan: 176 cm \nBerat Badan: 59 kg
+            \nPosisi: Lead Rapper \n\nMin Yoon Gi atau yang lebih dikenal sebagai Suga memiliki satu orang kakak laki laki dalam keluarga. Suga merupakan lulusan Apujeong High School. Sekolah SMA Suga merupakan sekolah khusus untuk pria.
+        Sebelum dirinya debut dengan BTS, ia adalah seorang rapper underground yang cukup terkenal di daerahnya, Daegu dengan nama julukan “Gloss”. Pada tahun 2010, ia bergabung dengan Big Hit Entertainment setelah berhasil meraih gelar runner up pada audisi terbuka yang digelar oleh Big Hit Entertainment. Item favorit kesukaan Suga BTS yaitu aksesori, kamera, dan barang elektronik. Film favoritnya yaitu Inception dan Suga menyukai angka 3.\n</string>
+
+    <string name="biojhope">Nama Asli: Jung Ho Seok \nTTL : Gwangju, Korea Selatan, 18 Februari 1994 \nTinggi Badan: 177 cm \nBerat Badan: 65 kg
+            \nPosisi: Lead Rapper dan Main Dancer \n\nSebelum bergabung dengan BTS, J-Hope tergabung dalam sebuah grup street dance yang bernama NEURON. Bersama grup street dance NEURON ini, J-Hope sering mengikuti berbagai ajang kompetisi dan kejuaraan tari. Di BTS, J-Hope termasuk ke dalam line dancer bersama dengan Jungkook dan Jimin.
+
+J-Hope merupakan anak laki laki satu-satunya dalam keluarga. Ia memiliki seorang kakak perempuan yang bernama Jung Da Won.
+
+Member BTS yang satu ini dianggap sebagai member yang selalu membawa perasaan bahagia kepada member yang lain. Ia dianggap sebagai ibu dari para member. V pernah mengatakan bahwa J-Hope seperti doraemon, karena ia selalu berhasil dalam menemukan solusi dari setiap masalah.
+
+Ia merupakan member BTS yang dikenal paling cerewet dibandingkan dengan member yang lain. J-Hope menyukai warna hijau dan angka favoritnya adalah angka 7. J-Hope merupakan penyayang binatang, terutama anjing. Ia memiliki nama sebelum debut, yaitu Smile Hoya. Ia adalah seseorang yang suka melakukan aegyo. J-Hope adalah member yang paling bersih dan paling rapi.\n</string>
+
+    <string name="biojimin">Nama Asli: Park Ji Min \nTTL : Busan, Korea Selatan, 13 Oktober 1995 \nTinggi Badan: 175 cm \nBerat Badan: 61 kg
+            \nPosisi: Lead Vocalist dan Main Dancer \n\nPark Ji Min atau yang biasa dikenal sebagai Jimin, memiliki beberapa nama panggilan yang akrab bagi penggemar. Ia sering dipanggil dengan Chim Chim, Dolly, atau Park Jimine.
+
+Jimin merupakan seseorang yang sangat mengidolakan BIGBANG, terutama Taeyang, Jimin sangat menyukai lagu-lagu dari Taeyang. Ia bersekolah di sekolah seni Busan dan mengambil jurusan Modern Dance. Di sekolah lah, Jimin mulai belajar untuk menari dan menyanyi. Jimin merupakan member yang perhatian dengan member yang lain. Selain itu, Jimin merupakan seseorang yang penurut. Jimin memiliki hobi menggambar, menari, bela diri, dan bermain video game. Warna favoritnya adalah warna biru muda dan hitam. Ia menyukai angka 3 sebagai angka favoritnya. Uniknya, Jimin memiliki jari yang paling mungil diantara member BTS lainnya.\n</string>
+
+    <string name="biov">Nama Asli: Kim Tae Hyung \nTTL : Daegu, Korea Selatan, 30 Desember 1995 \nTinggi Badan: 178 cm \nBerat Badan: 58 kg
+            \nPosisi: Vocalist \n\nMember selanjutnya memiliki nama panggung V, pindah dari daerah kelahirannya ke Geochang dan tumbuh besar di sana, sebelum pada akhirnya pindah ke Seoul. Ia memiliki dua orang adik, satu orang perempuan dan laki laki. V bersekolah di Korea Arts School. Sebelum debut dengan BTS, V dulu merupakan seorang namja ulzzang.
+
+Diantara member BTS yang lain, V dianggap sebagai member yang paling unik dan aneh, namun juga dianggap sebagai member yang paling misterius. Ia menyukai segala hal yang unik dan mempunyai hobi mendengarkan musik yang tidak didengarkan oleh orang lain. Dia suka mencari lagu bagus yang jarang diketahui oleh orang lain.
+
+V juga dikenal sebagai seseorang yang memiliki kepribadian 4D. Istilah ini merupakan terkenal di kalangan orang Korea, sebagai seseorang yang memiliki kepribadian yang tak terduga. Kadang ia bisa tiba-tiba berteriak, di lain hal kadang menampilkan ekspresi wajah aneh di depan kamera, dan bisa menari heboh saat orang lain terdiam.
+
+Ia sering mendapat julukan Blank Tae, karena ekspresi wajahnya yang selalu kosong atau blank. Selain pandai bernyanyi, V memiliki kemampuan dalam berakting. Pada tahun 2016 yang lalu, V turut memerankan sebuah drama Korea dengan judul Hwarang: The Beginning dan berperan sebagai Hansung.\n</string>
+
+    <string name="biojk">Nama Asli: Jeon Jeong Guk \nTTL : Busan, Korea Selatan, 1 September 1997 \nTinggi Badan: 178 cm \nBerat Badan: 66 kg
+        \nPosisi: Main Vocalist, Sub Rapper, Lead Dancer, dan Maknae. \n\nBiodata Member BTS selanjutnya adalah Jungkook. Saat dirinya belum tergabung bersama boy group BTS, Jungkook yang masih berusia 13 tahun telah mengikuti audisi Superstar K3. Namun, ia gagal saat audisi tersebut. Meski begitu, audisi tersebut menjadi jalan pembuka bagi dirinya, ia ternyata telah diincar oleh beberapa agensi yang berbeda dan salah satunya adalah Big Hit Entertainment. Fun fact tentang Jungkook, ia adalah member BTS yang paling jorok dan memiliki kamar yang paling berantakan. Jungkook dinilai oleh member lain, sebagai maknae yang tidak patuh dengan member lain yang lebih tua darinya. \n\n\n</string>
     <string name="title_edittext_preference">Edittext Preference</string>
     <string name="dialog_title_edittext_preference">EditText Preference</string>
     <string name="title_list_preference">List Preference</string>

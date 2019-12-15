@@ -1,14 +1,220 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".fragments.BioFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="16dp"
+        >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:orientation="vertical"
+            >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bio_bts"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            />
 
-</FrameLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:orientation="vertical"
+            >
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:src="@drawable/biobts"
+                android:text="@string/bio_bts"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bio_bts2"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts3"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/rmbts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biorm"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bio_bts4"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/jinbts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biojin"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts5"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/sugabts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biosuga"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts6"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/jhopebts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biojhope"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts7"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/jiminbts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biojimin"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts8"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/vbts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biov"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bio_bts9"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/jkbts"
+                    android:text="@string/bio_bts"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/biojk"
+                    android:textSize="15sp"
+                    android:textStyle="normal"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        </LinearLayout>
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
