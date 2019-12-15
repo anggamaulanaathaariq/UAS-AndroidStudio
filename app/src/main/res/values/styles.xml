@@ -5,7 +5,7 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/logoblack</item>
         <item name="colorPrimaryDark">@color/logoblack</item>
-        <item name="colorAccent">@color/colorBlink2</item>
+        <item name="colorAccent">@color/logoblack</item>
     </style>
 
     <style name="buttonstyle1" parent="Theme.AppCompat.Light">

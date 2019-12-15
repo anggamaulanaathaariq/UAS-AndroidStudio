@@ -3,15 +3,14 @@ package id.ac.polinema.appmusic.fragments;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -27,6 +26,8 @@ public class AlbumFragment extends Fragment {
     public static final String EDITTEXT_KEY = "edittext";
     public static final String LIST_KEY = "list";
     public static final String MULTI_SELECT_LIST_KEY = "multi_select_list";
+    public static final String DROPDOWN_KEY = "dropdown";
+    public static final String SEEKBAR_KEY = "seekbar";
 
     private SharedPreferences preferences;
 
@@ -51,10 +52,14 @@ public class AlbumFragment extends Fragment {
         TextView edittextText = view.findViewById(R.id.text_edittext_preference);
         TextView listText = view.findViewById(R.id.text_list_preference);
         TextView multiListText = view.findViewById(R.id.text_multi_list_preference);
+        TextView dropdownText = view.findViewById(R.id.text_dropdown_preference);
+        TextView seekbarText = view.findViewById(R.id.text_seekbar_preference);
 
         String edittextValue = preferences.getString(EDITTEXT_KEY, null);
         String listValue = preferences.getString(LIST_KEY, null);
         Set<String> multiListValues = preferences.getStringSet(MULTI_SELECT_LIST_KEY, new HashSet<String>());
+        String dropdownValue = preferences.getString(DROPDOWN_KEY, null);
+        int seekbarValue = preferences.getInt(SEEKBAR_KEY, 0);
         String multiListString = "";
         for (String value : multiListValues) {
             multiListString += value + "\n";
@@ -63,5 +68,7 @@ public class AlbumFragment extends Fragment {
         edittextText.setText(edittextValue);
         listText.setText(listValue);
         multiListText.setText(multiListString);
+        dropdownText.setText(dropdownValue);
+        seekbarText.setText(String.valueOf(seekbarValue));
     }
 }
