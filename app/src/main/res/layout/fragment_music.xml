@@ -130,128 +130,123 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Love My Self:Answer.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="lms"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Magic Shop.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="ms"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS - Mic Drop.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="mic"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Not Today.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="nottoday"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS - Lights.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="lights"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Go Go.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="gogo"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS - Home.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="home"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Dionysus.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="dionysus"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS J-Hope - Chicken Noodle Soup.Mp3 "
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="jhope"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - Mikromos.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="mikromos"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS - No More Dream.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="nomoredream"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
+                    android:text="BTS - We Are Bulletproof Pt 1.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
+                    android:onClick="btswab"
                     tools:ignore="OnClick" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="BTS - Boy With Luv"
+                    android:text="BTS - I Need U.Mp3"
                     android:textSize="18dp"
                     android:theme="@style/buttonstyle1"
-                    android:onClick="wizkhalifa"
+                    android:onClick="ineedu"
                     tools:ignore="OnClick" />
                 <TextView
-                    android:layout_width="match_parent"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:text="BTS - Dope.Mp3"
-                    android:textSize="18dp"
-                    android:theme="@style/buttonstyle1"
-                    android:onClick="btsdope"
-                    tools:ignore="OnClick" />
+                    android:text="\n\n"></TextView>
 
             </LinearLayout>
         </ScrollView>

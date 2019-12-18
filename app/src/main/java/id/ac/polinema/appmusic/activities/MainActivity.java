@@ -16,7 +16,20 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import id.ac.polinema.appmusic.R;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity10;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity11;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity12;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity13;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity14;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity15;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity16;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity17;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity18;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity19;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity2;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity20;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity21;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity22;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity23;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity3;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity4;
 import id.ac.polinema.appmusic.actionmusics.ActionActivity5;
@@ -147,6 +160,59 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         Intent intent = new Intent(this, ActionActivity10.class);
         startActivity(intent);
     }
+    public void lms(View view) {
+        Intent intent = new Intent(this, ActionActivity11.class);
+        startActivity(intent);
+    }
+    public void ms(View view) {
+        Intent intent = new Intent(this, ActionActivity12.class);
+        startActivity(intent);
+    }
+    public void mic(View view) {
+        Intent intent = new Intent(this, ActionActivity13.class);
+        startActivity(intent);
+    }
+    public void nottoday(View view) {
+        Intent intent = new Intent(this, ActionActivity14.class);
+        startActivity(intent);
+    }
+    public void lights(View view) {
+        Intent intent = new Intent(this, ActionActivity15.class);
+        startActivity(intent);
+    }
+    public void gogo(View view) {
+        Intent intent = new Intent(this, ActionActivity16.class);
+        startActivity(intent);
+    }
+    public void home(View view) {
+        Intent intent = new Intent(this, ActionActivity17.class);
+        startActivity(intent);
+    }
+    public void dionysus(View view) {
+        Intent intent = new Intent(this, ActionActivity18.class);
+        startActivity(intent);
+    }
+    public void jhope(View view) {
+        Intent intent = new Intent(this, ActionActivity19.class);
+        startActivity(intent);
+    }
+    public void mikromos(View view) {
+        Intent intent = new Intent(this, ActionActivity20.class);
+        startActivity(intent);
+    }
+    public void nomoredream(View view) {
+        Intent intent = new Intent(this, ActionActivity21.class);
+        startActivity(intent);
+    }
+    public void btswab(View view) {
+        Intent intent = new Intent(this, ActionActivity22.class);
+        startActivity(intent);
+    }
+    public void ineedu(View view) {
+        Intent intent = new Intent(this, ActionActivity23.class);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
