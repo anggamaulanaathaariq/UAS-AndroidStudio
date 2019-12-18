@@ -71,6 +71,30 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         Intent intent = new Intent(this, ActionActivity.class);
         startActivity(intent);
     }
+    public void btnToast(View view) {
+        Intent intent = new Intent(this, Album1.class);
+        startActivity(intent);
+    }
+    public void btnToast2(View view) {
+        Intent intent = new Intent(this, Album2.class);
+        startActivity(intent);
+    }
+    public void btnToast3(View view) {
+        Intent intent = new Intent(this, Album3.class);
+        startActivity(intent);
+    }
+    public void btnToast4(View view) {
+        Intent intent = new Intent(this, Album4.class);
+        startActivity(intent);
+    }
+    public void btnToast5(View view) {
+        Intent intent = new Intent(this, Album5.class);
+        startActivity(intent);
+    }
+    public void btnToast6(View view) {
+        Intent intent = new Intent(this, Album6.class);
+        startActivity(intent);
+    }
 
 
     @Override

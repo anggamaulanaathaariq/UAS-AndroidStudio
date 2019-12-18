@@ -7,7 +7,27 @@
     <string name="start">GOT IT</string>
     <string name="dialogs">Dialogs</string>
 
-    --Fragments
+
+    --Fragments Album--
+    <string name="album_bts">BTS Album</string>
+
+    --AlbumName--
+    <string name="namealbum">Wake Up(2014)</string>
+    <string name="namealbum2">The Most Beautiful Moment In Life(2015)</string>
+    <string name="namealbum3">Youth(2016)</string>
+    <string name="namealbum4">Love Yourself: Her(2017)</string>
+    <string name="namealbum5">Love Yourself: Tear(2018)</string>
+    <string name="namealbum6">Map of the Soul: Persona(2019)</string>
+
+
+    --AlbumText--
+    <string name="albumtext">Wake Up adalah album studio Jepang pertama oleh boy band Korea Selatan, Bangtan Boys yang dirilis pada 24 Desember 2014. Album ini berisi 13 lagu termasuk versi bahasa Jepang dari "No More Dream", "Boy in Luv", dan "Danger", serta dua lagu baru "The Stars" dan "Wake Up". Album ini memuncak di peringkat 2 tangga lagu Oricon.</string>
+    <string name="albumtext2">The Most Beautiful Moment in Life, Part (Hangul: 화양연화; Hwa Yang Yeon Hwa) adalah album mini keempat dari boy band asal Korea Selatan, Bangtan Boys. Album mini ini dirilis pada 30 November 2015[1] dan merupakan bagian kedua serta kelanjutan dari album mini The Most Beautiful Moment In Life, Part 1. Album dirilis dalam dua versi dan berisi sembilan lagu dengan "Run" sebagai singel utama. Di Korea Selatan, The Most Beautiful Moment in Life, Part 2 menjadi album dengan penjualan terbaik ke-5 pada tahun 2015.</string>
+    <string name="albumtext3">Youth adalah album studio Jepang kedua dan album studio ketiga secara keseluruhan oleh boy band Korea Selatan BTS, yang dirilis pada 7 September 2016. Album ini menampilkan 13 lagu.</string>
+    <string name="albumtext4">Love Yourself 承 "Her" (ditulis juga sebagai LOVE YOURSELF 承 "Her") adalah album mini kelima dari grup vokal pria asal Korea Selatan BTS. Album mini ini dirilis pada tanggal 18 September 2017 oleh Big Hit Entertainment. Album ini dirilis dalam empat versi, dan berisi sembilan lagu dengan "DNA" sebagai singel utama. Selain itu, ada dua lagu tersembunyi yang hanya tersedia di album fisik.</string>
+    <string name="albumtext5">Love Yourself 轉 "Tear" (bergaya LOVE YOURSELF 轉 "Tear") adalah album studio Korea ketiga (keseluruhan keenam) oleh boy band Korea Selatan BTS. Album ini dirilis pada 18 Mei 2018 oleh Big Hit Entertainment. Ini tersedia dalam empat versi dan berisi sebelas lagu, dengan "Fake Love" sebagai single utama. Album konsep mengeksplorasi tema-tema yang berkaitan dengan rasa sakit dan duka perpisahan. Pada tanggal 27 Mei 2018, album ini debut di nomor satu di US Billboard 200, menghasilkan 135.000 unit yang setara dengan album menjadi album charting tertinggi BTS di pasar Barat, serta album Korea pertama yang berada di puncak tangga album AS dan album dengan peringkat tertinggi oleh artis Asia.</string>
+    <string name="albumtext6">Map of the Soul: Persona adalah permainan diperpanjang keenam oleh boy band Korea Selatan BTS. Album ini dirilis pada 12 April 2019, melalui Big Hit Entertainment dengan Boy with Luv sebagai single utama. Ini adalah kelanjutan dari album 2018 mereka Love Yourself: Tear and Love Yourself: Answer, dan mendahului band Love Yourself: Speak Yourself world tour. EP dirilis untuk pre-order pada 13 Maret. Ini debut di nomor satu di US Billboard 200, menjadikan BTS band pertama sejak The Beatles yang memiliki tiga album nomor satu dalam waktu kurang dari setahun. Album ini juga menduduki puncak tangga lagu Inggris, Skotlandia, Selandia Baru dan Australia, menjadikan BTS sebagai artis Korea pertama yang mencapai album nomor satu di masing-masing negara ini. Selain itu, album ini terjual 3,2 juta kopi dalam satu bulan, menjadikannya album terlaris di Korea Selatan setelah 24 tahun. Sebuah lagu dari EP, Make It Right dirilis sebagai single kedua yang menampilkan Lauv pada 18 Oktober 2019.\n\n\n</string>
+    --Fragments Bio--
     <string name="bio_bts">We Are BTS</string>
     <string name="bio_bts2">BTS (Hangul: 방탄소년단RR: Bangtan Sonyeondan), juga dikenal sebagai Bangtan Boys, adalah sebuah boy band beranggotakan tujuh orang asal Korea Selatan yang dibentuk oleh Big Hit Entertainment. Bangtan Boys memiliki anggota member sebanyak 7 orang, yaitu RM, Jungkook, Jin, Suga, V, J-Hope, dan Jimin.</string>
     <string name="bio_bts3">RM BTS (KIM NAM JOON)</string>

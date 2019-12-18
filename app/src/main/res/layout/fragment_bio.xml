@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:text="@string/bio_bts"
             android:textSize="16sp"
+            android:textColor="@color/logoblack"
             android:textStyle="bold"
             />
 
