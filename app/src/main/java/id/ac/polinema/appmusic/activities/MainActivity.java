@@ -14,6 +14,12 @@ import androidx.fragment.app.FragmentTransaction;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import id.ac.polinema.appmusic.R;
+import id.ac.polinema.appmusic.albums.AlbumBts;
+import id.ac.polinema.appmusic.albums.AlbumBts2;
+import id.ac.polinema.appmusic.albums.AlbumBts3;
+import id.ac.polinema.appmusic.albums.AlbumBts4;
+import id.ac.polinema.appmusic.albums.AlbumBts5;
+import id.ac.polinema.appmusic.albums.AlbumBts6;
 import id.ac.polinema.appmusic.fragments.AlbumFragment;
 import id.ac.polinema.appmusic.fragments.BioFragment;
 import id.ac.polinema.appmusic.fragments.HomeFragment;
@@ -67,36 +73,34 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         }
         return loadFragment(fragment);
     }
+    public void btnToast(View view) {
+        Intent intent = new Intent(this, AlbumBts.class);
+        startActivity(intent);
+    }
+    public void btnToast2(View view) {
+        Intent intent = new Intent(this, AlbumBts2.class);
+        startActivity(intent);
+    }
+    public void btnToast3(View view) {
+        Intent intent = new Intent(this, AlbumBts3.class);
+        startActivity(intent);
+    }
+    public void btnToast4(View view) {
+        Intent intent = new Intent(this, AlbumBts4.class);
+        startActivity(intent);
+    }
+    public void btnToast5(View view) {
+        Intent intent = new Intent(this, AlbumBts5.class);
+        startActivity(intent);
+    }
+    public void btnToast6(View view) {
+        Intent intent = new Intent(this, AlbumBts6.class);
+        startActivity(intent);
+    }
     public void wizkhalifa(View view) {
         Intent intent = new Intent(this, ActionActivity.class);
         startActivity(intent);
     }
-    public void btnToast(View view) {
-        Intent intent = new Intent(this, Album1.class);
-        startActivity(intent);
-    }
-    public void btnToast2(View view) {
-        Intent intent = new Intent(this, Album2.class);
-        startActivity(intent);
-    }
-    public void btnToast3(View view) {
-        Intent intent = new Intent(this, Album3.class);
-        startActivity(intent);
-    }
-    public void btnToast4(View view) {
-        Intent intent = new Intent(this, Album4.class);
-        startActivity(intent);
-    }
-    public void btnToast5(View view) {
-        Intent intent = new Intent(this, Album5.class);
-        startActivity(intent);
-    }
-    public void btnToast6(View view) {
-        Intent intent = new Intent(this, Album6.class);
-        startActivity(intent);
-    }
-
-
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
