@@ -14,6 +14,16 @@ import androidx.fragment.app.FragmentTransaction;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import id.ac.polinema.appmusic.R;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity10;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity2;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity3;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity4;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity5;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity6;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity7;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity8;
+import id.ac.polinema.appmusic.actionmusics.ActionActivity9;
 import id.ac.polinema.appmusic.albums.AlbumBts;
 import id.ac.polinema.appmusic.albums.AlbumBts2;
 import id.ac.polinema.appmusic.albums.AlbumBts3;
@@ -101,6 +111,42 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         Intent intent = new Intent(this, ActionActivity.class);
         startActivity(intent);
     }
+    public void btsdope(View view) {
+        Intent intent = new Intent(this, ActionActivity2.class);
+        startActivity(intent);
+    }
+    public void boyinluv(View view) {
+        Intent intent = new Intent(this, ActionActivity3.class);
+        startActivity(intent);
+    }
+    public void btsanpanman(View view) {
+        Intent intent = new Intent(this, ActionActivity4.class);
+        startActivity(intent);
+    }
+    public void fakelove(View view) {
+        Intent intent = new Intent(this, ActionActivity5.class);
+        startActivity(intent);
+    }
+    public void btsfire(View view) {
+        Intent intent = new Intent(this, ActionActivity6.class);
+        startActivity(intent);
+    }
+    public void idol(View view) {
+        Intent intent = new Intent(this, ActionActivity7.class);
+        startActivity(intent);
+    }
+    public void btsmakeit(View view) {
+        Intent intent = new Intent(this, ActionActivity8.class);
+        startActivity(intent);
+    }
+    public void btsbst(View view) {
+        Intent intent = new Intent(this, ActionActivity9.class);
+        startActivity(intent);
+    }
+    public void v(View view) {
+        Intent intent = new Intent(this, ActionActivity10.class);
+        startActivity(intent);
+    }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -133,4 +179,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
             transaction.addToBackStack(null);
         transaction.commit();
     }
+
+
+
 }

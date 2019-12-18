@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.ActionActivity"
+    tools:context=".actionmusics.ActionActivity"
     android:background="@color/logopink"
     android:orientation="vertical"
     android:gravity="center_horizontal">
@@ -14,7 +14,7 @@
     <ImageView
         android:layout_width="298dp"
         android:layout_height="223dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="150dp"
         android:src="@drawable/covermusik" />
 
     <SeekBar
