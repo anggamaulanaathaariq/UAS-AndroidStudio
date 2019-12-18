@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "135105635491",
+    "firebase_url": "https://uas-musikapp.firebaseio.com",
+    "project_id": "uas-musikapp",
+    "storage_bucket": "uas-musikapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135105635491:android:2c20d015ff9d8e7d4c4b16",
+        "android_client_info": {
+          "package_name": "com.polinema.appmusik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135105635491-enh13anlrqsjgaikr9607534u0j7tlsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEkcZujSitDBzj6-nHxxz16eV1u0RcLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135105635491-enh13anlrqsjgaikr9607534u0j7tlsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135105635491:android:bdcd99113e2bf9fa4c4b16",
+        "android_client_info": {
+          "package_name": "id.ac.polinema.appmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135105635491-6o7r57qsjqgsf6ujsf8d9r39sc0puce6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.polinema.appmusic",
+            "certificate_hash": "2a0c58c1849af00f02a78942044c328a807eead2"
+          }
+        },
+        {
+          "client_id": "135105635491-enh13anlrqsjgaikr9607534u0j7tlsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEkcZujSitDBzj6-nHxxz16eV1u0RcLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135105635491-enh13anlrqsjgaikr9607534u0j7tlsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

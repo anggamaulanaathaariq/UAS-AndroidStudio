@@ -6,10 +6,23 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
     <string name="dialogs">Dialogs</string>
-
-
+    --judul--
+    <string name="tittletop">Wake Up (2014)</string>
+    <string name="tittletop2">The Most Beautiful Moment In Life (2015)</string>
+    <string name="tittletop3">Youth (2016)</string>
+    <string name="tittletop4">Love Yourself: Her (2017)</string>
+    <string name="tittletop5">Love Yourself: Tear (2018)</string>
+    <string name="tittletop6">Map of the Soul: Persona (2019)</string>
+    --tittle--
+    <string name="tittlealbum">TrackList WakeUp Albums:</string>
+    <string name="tittlealbum2">TrackList The Most Beautiful Moment In Life Albums:</string>
+    <string name="tittlealbum3">TrackList Youth Albums:</string>
+    <string name="tittlealbum4">TrackList Love Yourself: Her Albums:</string>
+    <string name="tittlealbum5">TrackList Love Yourself: Tear Albums:</string>
+    <string name="tittlealbum6">TrackList WakeUp Albums:</string>
     --Fragments Album--
     <string name="album_bts">BTS Album</string>
+    <string name="musik_bts">BTS Musik</string>
 
     --AlbumName--
     <string name="namealbum">Wake Up(2014)</string>
@@ -21,12 +34,77 @@
 
 
     --AlbumText--
-    <string name="albumtext">Wake Up adalah album studio Jepang pertama oleh boy band Korea Selatan, Bangtan Boys yang dirilis pada 24 Desember 2014. Album ini berisi 13 lagu termasuk versi bahasa Jepang dari "No More Dream", "Boy in Luv", dan "Danger", serta dua lagu baru "The Stars" dan "Wake Up". Album ini memuncak di peringkat 2 tangga lagu Oricon.</string>
-    <string name="albumtext2">The Most Beautiful Moment in Life, Part (Hangul: 화양연화; Hwa Yang Yeon Hwa) adalah album mini keempat dari boy band asal Korea Selatan, Bangtan Boys. Album mini ini dirilis pada 30 November 2015[1] dan merupakan bagian kedua serta kelanjutan dari album mini The Most Beautiful Moment In Life, Part 1. Album dirilis dalam dua versi dan berisi sembilan lagu dengan "Run" sebagai singel utama. Di Korea Selatan, The Most Beautiful Moment in Life, Part 2 menjadi album dengan penjualan terbaik ke-5 pada tahun 2015.</string>
-    <string name="albumtext3">Youth adalah album studio Jepang kedua dan album studio ketiga secara keseluruhan oleh boy band Korea Selatan BTS, yang dirilis pada 7 September 2016. Album ini menampilkan 13 lagu.</string>
-    <string name="albumtext4">Love Yourself 承 "Her" (ditulis juga sebagai LOVE YOURSELF 承 "Her") adalah album mini kelima dari grup vokal pria asal Korea Selatan BTS. Album mini ini dirilis pada tanggal 18 September 2017 oleh Big Hit Entertainment. Album ini dirilis dalam empat versi, dan berisi sembilan lagu dengan "DNA" sebagai singel utama. Selain itu, ada dua lagu tersembunyi yang hanya tersedia di album fisik.</string>
-    <string name="albumtext5">Love Yourself 轉 "Tear" (bergaya LOVE YOURSELF 轉 "Tear") adalah album studio Korea ketiga (keseluruhan keenam) oleh boy band Korea Selatan BTS. Album ini dirilis pada 18 Mei 2018 oleh Big Hit Entertainment. Ini tersedia dalam empat versi dan berisi sebelas lagu, dengan "Fake Love" sebagai single utama. Album konsep mengeksplorasi tema-tema yang berkaitan dengan rasa sakit dan duka perpisahan. Pada tanggal 27 Mei 2018, album ini debut di nomor satu di US Billboard 200, menghasilkan 135.000 unit yang setara dengan album menjadi album charting tertinggi BTS di pasar Barat, serta album Korea pertama yang berada di puncak tangga album AS dan album dengan peringkat tertinggi oleh artis Asia.</string>
+    <string name="tracklist6">\n01, 02, 03 and 04 Version:
+\n1.)Intro: Persona (solo by RM)
+\n2.)Boy With Luv (작은 것들을 위한 시) (feat. Halsey) Title
+\n3.)Mikrokosmos (소우주)
+\n4.)Make It Right
+\n5.)HOME
+\n6.)Jamais Vu (song by Jin, J-Hope and Jungkook)
+\n7.)Dionysus</string>
+    <string name="tracklist5">\nY, O, U and R Version:
+\n1.)Intro: Singularity (solo by V)
+\n2.)FAKE LOVE Title
+\n3.)The Truth Untold (전하지 못한 진심) (Feat. Steve Aoki) (song by Vocal line)
+\n4.)134340
+\n5.)Paradise (낙원)
+\n6.)Love Maze
+\n7.)Magic Shop
+\n8.)Airplane Pt.2
+\n9.)Anpanman
+\n10.)So What
+\n11.)Outro: Tear (song by Rap line)</string>
+    <string name="tracklist4">\nL, O, V and E Version:
+\n1.)Intro: Serendipity (solo by Jimin)
+\n2.)DNA Title
+\n3.)Best of Me
+\n4.)Dimple (보조개) (song by Vocal line)
+\n5.)Pied Piper
+\n6.)Skit: Billboard Music Awards Speech
+\n7.)MIC Drop
+\n8.)Go Go (고민보다 Go)
+\n9.)Outro: Her (song by Rap line)
+\n10.)Skit: Hesitation and Fear (Skit: 망설임과 두려움) (Hidden Track)
+\n11.)Sea (바다) (Hidden Track)</string>
+    <string name="tracklist3">\nLimited Edition
+CD:
+
+\n1.)Introduction: Youth
+\n2.)Run (Japanese Ver.)
+\n3.)Fire (Japanese Ver.)
+\n4.)Dope (Japanese Ver.) (超ヤベー!)
+\n5.)Good Day
+\n6.)Save Me (Japanese Ver.)
+\n7.)Boyz With Fun (Japanese Ver.) (フンタン少年団)
+\n8.)Silver Spoon (Japanese Ver.) (ペップセ)
+\n9.)Wishing On A Star
+\n10.)Butterfly (Japanese Ver.)
+\n11.)For You
+\n12.)I Need U (Japanese Ver.)
+\n13.)Epilogue: Young Forever (Japanese Ver.)
+
+        \n\nDVD:
+
+\n1.)For You (Music Video)
+\n2.)For You (Behind the Scene – Music Video Shooting)
+\n3.)I Need U (Japanese Ver.) (Music Video)
+\n4.)I Need U (Japanese Ver.) (Behind the Scene – Music Video Shooting)
+\n5.)Run (Japanese Ver.) (Music Video)
+\n6.)Run (Japanese Ver.) (Behind the Scene – Music Video Shooting)</string>
+    <string name="tracklist">\nLimited Edition A
+CD: \n1.)Intro \n2.)The Stars \n3.)Jump (Japanese Ver.) \n4.Danger (Japanese Ver.) \n5.)Boy In Luv (Japanese Ver.) \n6.)Just One Day (Japanese Ver. Extended) \n7.)Like (Japanese Ver.) (いいね!) \n8.)I Like It Part 2 ~At That Place~ (いいね！Pt.2～あの場所で～) \n9.)No More Dream (Japanese Ver.) \n10.)Attack On Bangtan (Japanese Ver.) (進撃の防弾) \n11.)N.O (Japanese Ver.) \n12.)Wake Up 13.)Outro \n\nLimited Edition B
+CD \n1.)Intro \n2.)The Stars \n3.)Jump (Japanese Ver.) \n4.)Danger (Japanese Ver.) \n5.)Boy In Luv (Japanese Ver.) \n6.)Just One Day (Japanese Ver. Extended) \n7.)Like (Japanese Ver.) (いいね!) \n8.)I Like It Part 2 ~At That Place~ (いいね！Pt.2～あの場所で～) \n9.)No More Dream (Japanese Ver.) \n10.)Attack On Bangtan (Japanese Ver.) (進撃の防弾) \n11.)N.O (Japanese Ver.) \n12.)Wake Up \n
+Outro</string>
+    <string name="tracklist2">\nDay, Night and Japan Version
+CD 1: \n1.)Intro: The Most Beautiful Moment in Life (Intro: 화양연화) (solo by Suga) \n2.)I Need U \n3.)Hold Me Tight (잡아줘) \n4.)Autumn Leaves (고엽) \n5.)Butterfly (Prologue Mix) \n6.)Run \n7.)Ma City \n8.)Silver Spoon (뱁새) \n9.)Dope (쩔어) \n10.)Fire (불타오르네) Title \n11.)Save Me \n12.)Epilogue: Young Forever \n\nCD 2: \n1.)Converse High \n2.)Moving On (이사) \n3.)Whalien 52 \n4.)Butterfly \n5.)House Of Cards (Full Length Edition) (song by Vocal line) \n6.)Love Is Not Over (Full Length Edition) \n7.)I Need U (Urban Mix) \n8.)I Need U (Remix) \n9.)Run (Ballad Mix) \n10.)Run (Alternative Mix) \n11.)Butterfly (Alternative Mix)</string>
+    <string name="albumtext">Wake Up adalah album studio Jepang pertama oleh boy band Korea Selatan, Bangtan Boys yang dirilis pada 24 Desember 2014. Album ini berisi 13 lagu termasuk versi bahasa Jepang dari "No More Dream", "Boy in Luv", dan "Danger", serta dua lagu baru "The Stars" dan "Wake Up". Album ini memuncak di peringkat 2 tangga lagu Oricon.\n</string>
+    <string name="albumtext2">The Most Beautiful Moment in Life, Part (Hangul: 화양연화; Hwa Yang Yeon Hwa) adalah album mini keempat dari boy band asal Korea Selatan, Bangtan Boys. Album mini ini dirilis pada 30 November 2015[1] dan merupakan bagian kedua serta kelanjutan dari album mini The Most Beautiful Moment In Life, Part 1. Album dirilis dalam dua versi dan berisi sembilan lagu dengan "Run" sebagai singel utama. Di Korea Selatan, The Most Beautiful Moment in Life, Part 2 menjadi album dengan penjualan terbaik ke-5 pada tahun 2015.\n</string>
+    <string name="albumtext3">Youth adalah album studio Jepang kedua dan album studio ketiga secara keseluruhan oleh boy band Korea Selatan BTS, yang dirilis pada 7 September 2016. Album ini menampilkan 13 lagu.\n</string>
+    <string name="albumtext4">Love Yourself 承 "Her" (ditulis juga sebagai LOVE YOURSELF 承 "Her") adalah album mini kelima dari grup vokal pria asal Korea Selatan BTS. Album mini ini dirilis pada tanggal 18 September 2017 oleh Big Hit Entertainment. Album ini dirilis dalam empat versi, dan berisi sembilan lagu dengan "DNA" sebagai singel utama. Selain itu, ada dua lagu tersembunyi yang hanya tersedia di album fisik.\n</string>
+    <string name="albumtext5">Love Yourself 轉 "Tear" (bergaya LOVE YOURSELF 轉 "Tear") adalah album studio Korea ketiga (keseluruhan keenam) oleh boy band Korea Selatan BTS. Album ini dirilis pada 18 Mei 2018 oleh Big Hit Entertainment. Ini tersedia dalam empat versi dan berisi sebelas lagu, dengan "Fake Love" sebagai single utama. Album konsep mengeksplorasi tema-tema yang berkaitan dengan rasa sakit dan duka perpisahan. Pada tanggal 27 Mei 2018, album ini debut di nomor satu di US Billboard 200, menghasilkan 135.000 unit yang setara dengan album menjadi album charting tertinggi BTS di pasar Barat, serta album Korea pertama yang berada di puncak tangga album AS dan album dengan peringkat tertinggi oleh artis Asia.\n</string>
     <string name="albumtext6">Map of the Soul: Persona adalah permainan diperpanjang keenam oleh boy band Korea Selatan BTS. Album ini dirilis pada 12 April 2019, melalui Big Hit Entertainment dengan Boy with Luv sebagai single utama. Ini adalah kelanjutan dari album 2018 mereka Love Yourself: Tear and Love Yourself: Answer, dan mendahului band Love Yourself: Speak Yourself world tour. EP dirilis untuk pre-order pada 13 Maret. Ini debut di nomor satu di US Billboard 200, menjadikan BTS band pertama sejak The Beatles yang memiliki tiga album nomor satu dalam waktu kurang dari setahun. Album ini juga menduduki puncak tangga lagu Inggris, Skotlandia, Selandia Baru dan Australia, menjadikan BTS sebagai artis Korea pertama yang mencapai album nomor satu di masing-masing negara ini. Selain itu, album ini terjual 3,2 juta kopi dalam satu bulan, menjadikannya album terlaris di Korea Selatan setelah 24 tahun. Sebuah lagu dari EP, Make It Right dirilis sebagai single kedua yang menampilkan Lauv pada 18 Oktober 2019.\n\n\n</string>
+
+    <string name="albumtext7">Map of the Soul: Persona adalah permainan diperpanjang keenam oleh boy band Korea Selatan BTS. Album ini dirilis pada 12 April 2019, melalui Big Hit Entertainment dengan Boy with Luv sebagai single utama. Ini adalah kelanjutan dari album 2018 mereka Love Yourself: Tear and Love Yourself: Answer, dan mendahului band Love Yourself: Speak Yourself world tour. EP dirilis untuk pre-order pada 13 Maret. Ini debut di nomor satu di US Billboard 200, menjadikan BTS band pertama sejak The Beatles yang memiliki tiga album nomor satu dalam waktu kurang dari setahun. Album ini juga menduduki puncak tangga lagu Inggris, Skotlandia, Selandia Baru dan Australia, menjadikan BTS sebagai artis Korea pertama yang mencapai album nomor satu di masing-masing negara ini. Selain itu, album ini terjual 3,2 juta kopi dalam satu bulan, menjadikannya album terlaris di Korea Selatan setelah 24 tahun. Sebuah lagu dari EP, Make It Right dirilis sebagai single kedua yang menampilkan Lauv pada 18 Oktober 2019.\n</string>
     --Fragments Bio--
     <string name="bio_bts">We Are BTS</string>
     <string name="bio_bts2">BTS (Hangul: 방탄소년단RR: Bangtan Sonyeondan), juga dikenal sebagai Bangtan Boys, adalah sebuah boy band beranggotakan tujuh orang asal Korea Selatan yang dibentuk oleh Big Hit Entertainment. Bangtan Boys memiliki anggota member sebanyak 7 orang, yaitu RM, Jungkook, Jin, Suga, V, J-Hope, dan Jimin.</string>

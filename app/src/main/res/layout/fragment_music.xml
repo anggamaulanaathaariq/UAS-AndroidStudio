@@ -30,7 +30,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textAlignment="center"
-                    android:text="@string/album_bts"
+                    android:text="@string/musik_bts"
                     android:textSize="16sp"
                     android:textStyle="bold"
                     android:textColor="@color/logoblack"
