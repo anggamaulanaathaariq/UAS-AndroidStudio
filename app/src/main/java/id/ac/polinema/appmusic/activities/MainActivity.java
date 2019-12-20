@@ -85,8 +85,8 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 fragment = new BioFragment();
                 break;
             case R.id.action_home:
-                fragment = new HomeFragment();
-                break;
+                openfragment(new HomeFragment());
+                return true;
             case R.id.action_music:
                 fragment = new MusicFragment();
                 break;
@@ -96,6 +96,11 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         }
         return loadFragment(fragment);
     }
+
+    private void openfragment(HomeFragment fragment) {
+        openFragment(fragment, false);
+    }
+
     public void btnToast(View view) {
         Intent intent = new Intent(this, AlbumBts.class);
         startActivity(intent);
