@@ -6,6 +6,19 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
     <string name="dialogs">Dialogs</string>
+    --Buy album--
+    <string name="linktosite">
+    <a href="https://www.amazon.com/Wake-Up-BTS/dp/B00PBR1TSO">https://www.amazon.com/Wake-Up-BTS/dp/B00PBR1TSO</a> </string>
+    <string name="linktosite2">
+    <a href="https://www.amazon.com/BTS-Beautiful-Moments-Photobook-Photocard/dp/B01CSEB9M8">https://www.amazon.com/BTS-Beautiful-Moments-Photobook-Photocard/dp/B01CSEB9M8</a> </string>
+    <string name="linktosite3">
+    <a href="https://www.amazon.com/Youth-BTS/dp/B01NBPB5HM">https://www.amazon.com/Youth-BTS/dp/B01NBPB5HM</a> </string>
+    <string name="linktosite4">
+    <a href="https://www.amazon.com/Love-Yourself-Tear-BTS/dp/B07BZBBVLF">https://www.amazon.com/Love-Yourself-Tear-BTS/dp/B07BZBBVLF</a> </string>
+    <string name="linktosite5">
+    <a href="https://www.amazon.com/LOVE-YOURSELF-Her-BTS/dp/B075KZGM8C">https://www.amazon.com/LOVE-YOURSELF-Her-BTS/dp/B075KZGM8C</a> </string>
+    <string name="linktosite6">
+    <a href="https://www.amazon.com/Map-Soul-PERSONA-BTS/dp/B07PB2W4ND">https://www.amazon.com/Map-Soul-PERSONA-BTS/dp/B07PB2W4ND</a> </string>
     --judul--
     <string name="tittletop">Wake Up (2014)</string>
     <string name="tittletop2">The Most Beautiful Moment In Life (2015)</string>
@@ -19,7 +32,7 @@
     <string name="tittlealbum3">TrackList Youth Albums:</string>
     <string name="tittlealbum4">TrackList Love Yourself: Her Albums:</string>
     <string name="tittlealbum5">TrackList Love Yourself: Tear Albums:</string>
-    <string name="tittlealbum6">TrackList WakeUp Albums:</string>
+    <string name="tittlealbum6">TrackList Map of the Soul: Persona Albums:</string>
     --Fragments Album--
     <string name="album_bts">BTS Album</string>
     <string name="musik_bts">BTS Musik</string>
