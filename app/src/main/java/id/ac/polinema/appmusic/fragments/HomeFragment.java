@@ -26,8 +26,6 @@ public class HomeFragment extends Fragment {
     public static final String EDITTEXT_KEY = "edittext";
     public static final String LIST_KEY = "list";
     public static final String MULTI_SELECT_LIST_KEY = "multi_select_list";
-    public static final String DROPDOWN_KEY = "dropdown";
-    public static final String SEEKBAR_KEY = "seekbar";
 
     private SharedPreferences preferences;
 
@@ -54,14 +52,10 @@ public class HomeFragment extends Fragment {
         TextView edittextText = view.findViewById(R.id.text_edittext_preference);
         TextView listText = view.findViewById(R.id.text_list_preference);
         TextView multiListText = view.findViewById(R.id.text_multi_list_preference);
-        TextView dropdownText = view.findViewById(R.id.text_dropdown_preference);
-        TextView seekbarText = view.findViewById(R.id.text_seekbar_preference);
 
         String edittextValue = preferences.getString(EDITTEXT_KEY, null);
         String listValue = preferences.getString(LIST_KEY, null);
         Set<String> multiListValues = preferences.getStringSet(MULTI_SELECT_LIST_KEY, new HashSet<String>());
-        String dropdownValue = preferences.getString(DROPDOWN_KEY, null);
-        int seekbarValue = preferences.getInt(SEEKBAR_KEY, 0);
         String multiListString = "";
         for (String value : multiListValues) {
             multiListString += value + "\n";
@@ -70,8 +64,6 @@ public class HomeFragment extends Fragment {
         edittextText.setText(edittextValue);
         listText.setText(listValue);
         multiListText.setText(multiListString);
-        dropdownText.setText(dropdownValue);
-        seekbarText.setText(String.valueOf(seekbarValue));
     }
 
 }
